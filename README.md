@@ -1,3 +1,6 @@
+## Demo Video
+
+[![Watch the demo](https://github.com/user-attachments/assets/cc57a0ea-478c-4be0-9cc7-bfa477506595)
 # Item Tracker
 
 A tiny full-stack demo app used to showcase a complete testing setup:
