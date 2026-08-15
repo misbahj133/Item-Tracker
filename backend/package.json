@@ -1,0 +1,20 @@
+{
+  "name": "item-tracker-backend",
+  "version": "1.0.0",
+  "description": "Item Tracker API - Express backend with auth + items CRUD",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
